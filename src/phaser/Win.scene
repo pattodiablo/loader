@@ -1,0 +1,24 @@
+{
+    "id": "6cdccacd-e2ce-4ad6-8983-e16eb7138788",
+    "sceneType": "PREFAB",
+    "settings": {
+        "sceneType": "PREFAB",
+        "superClassName": "Phaser.GameObjects.Container",
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "_create"
+    },
+    "displayList": [
+        {
+            "type": "Container",
+            "id": "342651c8-c321-422b-bf83-81d5d9e0cfe6",
+            "label": "container_1",
+            "list": []
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    }
+}

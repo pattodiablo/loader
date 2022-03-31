@@ -1,0 +1,45 @@
+{
+    "section1": {
+        "files": [       
+            {
+                "url": "assets/images/blue.png",
+                "type": "image",
+                "key": "blue"
+            },
+            {
+                "url": "assets/images/red.png",
+                "type": "image",
+                "key": "red"
+            },
+           
+        
+            {
+                "url": [
+                    "assets/sounds/fireworks.mp3"
+                ],
+                "type": "audio",
+                "key": "fireworks"
+            },
+            {
+                "url": [
+                    "assets/sounds/bigwin.mp3"
+                ],
+                "type": "audio",
+                "key": "bigwin"
+            },
+            {
+                "url": [
+                    "assets/sounds/smallwin.mp3"
+                ],
+                "type": "audio",
+                "key": "smallwin"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}

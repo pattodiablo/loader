@@ -1,0 +1,26 @@
+{
+    "id": "4fcb4798-323f-4f9f-ae5b-f483e7b15526",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "_create",
+        "sceneKey": "LeadLiaisonPhaserGame",
+        "borderWidth": 1366,
+        "borderHeight": 1024
+    },
+    "displayList": [
+        {
+            "prefabId": "6cdccacd-e2ce-4ad6-8983-e16eb7138788",
+            "id": "e757135b-21a2-4125-94d6-085573c80d02",
+            "label": "win",
+            "components": []
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    }
+}

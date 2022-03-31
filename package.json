@@ -1,0 +1,36 @@
+{
+  "name": "leadliasongameloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack serve --mode=development --open --inline --hot",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mikestone24@bitbucket.org/leadliaisondev/Loader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/leadliaisondev/Loader/issues"
+  },
+  "homepage": "https://bitbucket.org/leadliaisondev/Loader#readme",
+  "devDependencies": {
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {
+    "ios-inner-height": "^1.1.1",
+    "is-mobile": "^3.0.0",
+    "ismobilejs": "^1.1.1",
+    "phaser": "^3.55.2",
+    "sweetalert2": "^11.0.16",
+    "webfontloader": "^1.6.28"
+  }
+}
